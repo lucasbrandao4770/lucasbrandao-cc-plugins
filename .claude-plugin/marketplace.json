@@ -10,7 +10,7 @@
     {
       "name": "pptx-workflow",
       "description": "Generate high-quality .pptx presentations from user-provided templates via a multi-agent workflow that preserves branding and composes decks deterministically.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {"name": "Lucas Brandão"},
       "source": {
         "source": "url",
