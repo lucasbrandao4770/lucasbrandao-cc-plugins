@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lucasbrandao-cc-plugins",
+  "description": "Personal Claude Code plugins by Lucas Brandão.",
+  "owner": {
+    "name": "Lucas Brandão",
+    "email": "lucasbrandao4770@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "pptx-workflow",
+      "description": "Generate high-quality .pptx presentations from user-provided templates via a multi-agent workflow that preserves branding and composes decks deterministically.",
+      "version": "0.2.0",
+      "author": {"name": "Lucas Brandão"},
+      "source": {
+        "source": "github",
+        "repo": "lucasbrandao4770/pptx-workflow"
+      },
+      "category": "productivity",
+      "keywords": ["presentation", "slides", "pptx", "powerpoint", "template", "agentic"],
+      "homepage": "https://github.com/lucasbrandao4770/pptx-workflow"
+    }
+  ]
+}
