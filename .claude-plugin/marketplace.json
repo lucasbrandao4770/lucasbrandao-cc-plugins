@@ -13,8 +13,8 @@
       "version": "0.2.0",
       "author": {"name": "Lucas Brandão"},
       "source": {
-        "source": "github",
-        "repo": "lucasbrandao4770/pptx-workflow"
+        "source": "url",
+        "url": "https://github.com/lucasbrandao4770/pptx-workflow.git"
       },
       "category": "productivity",
       "keywords": ["presentation", "slides", "pptx", "powerpoint", "template", "agentic"],
