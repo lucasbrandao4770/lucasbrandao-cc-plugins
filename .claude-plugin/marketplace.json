@@ -8,41 +8,47 @@
   },
   "plugins": [
     {
-      "name": "pptx-workflow",
-      "description": "Generate high-quality .pptx presentations from user-provided templates via a multi-agent workflow that preserves branding and composes decks deterministically.",
-      "author": {"name": "Lucas Brandão"},
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lucasbrandao4770/pptx-workflow.git"
-      },
-      "category": "productivity",
-      "keywords": ["presentation", "slides", "pptx", "powerpoint", "template", "agentic"],
-      "homepage": "https://github.com/lucasbrandao4770/pptx-workflow"
-    },
-    {
       "name": "meeting-catalog",
       "description": "Turn meeting transcripts into a validated, drift-free catalog: multi-format intake, LLM analysis gated by a deterministic Pydantic validator, and a regenerated index queried via the mtgctl CLI.",
-      "author": {"name": "Lucas Brandão"},
+      "author": {
+        "name": "Lucas Brandão"
+      },
       "source": {
         "source": "url",
         "url": "https://github.com/lucasbrandao4770/meeting-catalog.git"
       },
       "license": "MIT",
       "category": "productivity",
-      "keywords": ["meetings", "transcripts", "catalog", "notes", "knowledge-base"],
+      "keywords": [
+        "meetings",
+        "transcripts",
+        "catalog",
+        "notes",
+        "knowledge-base"
+      ],
       "homepage": "https://github.com/lucasbrandao4770/meeting-catalog"
     },
     {
       "name": "agentic-dev",
       "description": "Agentic development workflows with GitHub integration — turn 'fix this' / 'ship that' into a well-formed issue, a verified change, and a review-ready PR through a gated issue/branch/PR flow.",
-      "author": {"name": "Lucas Brandão"},
+      "author": {
+        "name": "Lucas Brandão"
+      },
       "source": {
         "source": "url",
         "url": "https://github.com/lucasbrandao4770/agentic-dev.git"
       },
       "license": "MIT",
       "category": "workflow",
-      "keywords": ["github", "agentic", "workflow", "development", "git", "pull-request", "issue"],
+      "keywords": [
+        "github",
+        "agentic",
+        "workflow",
+        "development",
+        "git",
+        "pull-request",
+        "issue"
+      ],
       "homepage": "https://github.com/lucasbrandao4770/agentic-dev"
     }
   ]
