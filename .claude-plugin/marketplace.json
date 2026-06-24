@@ -23,7 +23,10 @@
       "name": "meeting-catalog",
       "description": "Turn meeting transcripts into a validated, drift-free catalog: multi-format intake, LLM analysis gated by a deterministic Pydantic validator, and a regenerated index queried via the mtgctl CLI.",
       "author": {"name": "Lucas Brandão"},
-      "source": {"source": "github", "repo": "lucasbrandao4770/meeting-catalog"},
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucasbrandao4770/meeting-catalog.git"
+      },
       "license": "MIT",
       "category": "productivity",
       "keywords": ["meetings", "transcripts", "catalog", "notes", "knowledge-base"],
@@ -33,7 +36,10 @@
       "name": "agentic-dev",
       "description": "Agentic development workflows with GitHub integration — turn 'fix this' / 'ship that' into a well-formed issue, a verified change, and a review-ready PR through a gated issue/branch/PR flow.",
       "author": {"name": "Lucas Brandão"},
-      "source": {"source": "github", "repo": "lucasbrandao4770/agentic-dev"},
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucasbrandao4770/agentic-dev.git"
+      },
       "license": "MIT",
       "category": "workflow",
       "keywords": ["github", "agentic", "workflow", "development", "git", "pull-request", "issue"],
