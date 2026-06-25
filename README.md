@@ -29,7 +29,7 @@ Claude Code uses the local `git` / `gh` credentials at install time — there is
 
 | Plugin | Description | Status | Source |
 |---|---|---|---|
-| `pptx-workflow` | Generate `.pptx` presentations from user templates via a multi-agent workflow that preserves branding. | private, `v0.2.0` | [`lucasbrandao4770/pptx-workflow`](https://github.com/lucasbrandao4770/pptx-workflow) |
+| `meeting-catalog` | Turn meeting transcripts into a validated, drift-free catalog: multi-format intake, LLM analysis gated by a deterministic Pydantic validator, and an index queried via the `mtgctl` CLI. | `v0.2.0` | [`lucasbrandao4770/meeting-catalog`](https://github.com/lucasbrandao4770/meeting-catalog) |
 
 ## Updating
 
