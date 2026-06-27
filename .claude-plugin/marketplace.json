@@ -14,8 +14,9 @@
         "name": "Lucas Brandão"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/lucasbrandao4770/meeting-catalog.git"
+        "source": "git-subdir",
+        "url": "https://github.com/lucasbrandao4770/meeting-catalog.git",
+        "path": "plugin"
       },
       "license": "MIT",
       "category": "productivity",
